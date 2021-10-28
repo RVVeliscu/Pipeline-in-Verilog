@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../pipeline.srcs/sources_1/new/dif.v" \
+"../../../../pipeline.srcs/sources_1/new/inm.v" \
+"../../../../pipeline.srcs/sources_1/new/regD.v" \
+"../../../../pipeline.srcs/sources_1/new/sum.v" \
+"../../../../pipeline.srcs/sources_1/new/top.v" \
+"../../../../pipeline.srcs/sim_1/new/sim_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

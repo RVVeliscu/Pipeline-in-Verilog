@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sources_1/new/dif.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dif
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sources_1/new/inm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sources_1/new/regD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regD
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sources_1/new/sum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rober/Desktop/laburi cn/pipeline/pipeline.srcs/sim_1/new/sim_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_top
